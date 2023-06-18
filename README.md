@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
-- 👨‍💻 Check out Everything about me at [https://bipinchowdary.github.io/](https://mr-lucifer8055.github.io/my-web-profile/)
+- 👨‍💻 Check out Everything about me at [https://bipinchowdary.github.io/](https://bipinchowdary.github.io/)
 
 - 📫 How to reach me **bipin.chowdary8055@gmail.com**
 
