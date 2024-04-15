@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/BipinChowdary/BipinChowadry/blob/main/banner.jpg)](https://mr-lucifer8055.github.io/my-web-profile/)
+[![MasterHead](https://github.com/BipinChowdary/BipinChowadry/blob/main/banner.jpg)](https://bipinchowdary.github.io/)
 <h1 align="left">Hello, I'm Bipin Chowdary, an "A.I Artificer" <img src="https://media.giphy.com/media/5Xkfm66TmruVquYe6Q/giphy.gif" width="70"></h1> 
 <h3 align="left">Unleashing the potential of artificial minds.</h3>
  <img src="https://media.giphy.com/media/SXyDYS8HSWfaMTmKGJ/giphy.gif" width="100">
